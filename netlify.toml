@@ -4,5 +4,5 @@
   
 [build.environment]
   HUGO_VERSION = "0.81.0"
-  HUGO_THEME = "parse-hugo"
+  HUGO_THEME = "parsa-hugo"
   HUGO_BASEURL = "/"
