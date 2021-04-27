@@ -3,7 +3,7 @@ title: KỶ LUẬT CHÍNH LÀ TỰ DO
 date: 2019-05-14T14:46:10.000+06:00
 description: KỶ LUẬT CHÍNH LÀ TỰ DO
 type: featured
-image: images/featured-post/post-1.jpg
+image: ''
 categories:
 - Valuable Idea
 tags:
